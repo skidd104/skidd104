@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Ian Leguira</h1>
-<h3 align="center">A passionate game developer</h3>
+<h3 align="center">A passionate game programmer</h3>
 <img align="right" alt="Gamedev" width="400" src="https://i.pinimg.com/originals/2e/61/44/2e61441e3daca5efa2fceaeda4745b93.gif">
 
 - 🔭 I’m currently learning **GameProgramming**
