@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently learning **GameProgramming**
 
-- 🌱 I’m currently learning **C++,React,HTML,CSS,GameEngines**
+- 🌱 I’m currently learning **C++,React,Python,ML,AI,GameEngines**
 
-- 👯 I’m looking to collaborate on **Gamedevelopers with beginner experience**
+- 👯 I’m looking to collaborate on **Gamedevs with beginner experience**
 
 - 🤝 I’m looking for help with **Intermediate**
 
